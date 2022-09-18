@@ -57,10 +57,10 @@
 ## 我个人测试过的小米设备
 
 - Redmi 11T PRO（等待解锁后尝试刷机）
-- Redmi K30 PRO [刷机记录](https://soulteary.com/2021/10/22/mi-k30-pro-flashing-miui-125-overseas-version.html)
-- Redmi K20 PRO [刷机记录](https://soulteary.com/2019/09/08/xiaomi-k20pro-experience-android-10.html)
-- Xiaomi MAX2
-- Xiaomi MAX
+- Redmi K30 PRO （MIUI 12.5，后降级 MIUI 11）[刷机记录](https://soulteary.com/2021/10/22/mi-k30-pro-flashing-miui-125-overseas-version.html)
+- Redmi K20 PRO （Android 10）[刷机记录](https://soulteary.com/2019/09/08/xiaomi-k20pro-experience-android-10.html)
+- Xiaomi MAX2 （Android 8.1）
+- Xiaomi MAX （Android 7.0）
 - Xiaomi 5 PLUS
 - Xiaomi 3
 
